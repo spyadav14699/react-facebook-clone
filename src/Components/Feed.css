@@ -1,0 +1,12 @@
+.feed{
+    flex: 1;
+    padding: 30px 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.App{
+    background-color: rgb(226, 226, 225);
+    height: 100%;
+}
